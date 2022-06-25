@@ -1,1 +1,1 @@
-# Fake-news-detection-using-Sequential-Model-Deep-Learning
+# Fake news detection using Sequential Model Deep Learning
